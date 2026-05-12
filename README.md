@@ -1,3 +1,3 @@
 # ProxmoxAdmin
 
-(Storage)[Storage.md]
+[Storage](Storage.md)
