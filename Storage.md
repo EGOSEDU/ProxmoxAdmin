@@ -32,4 +32,6 @@ vcreate -T vg02/thinpool01 -L 1024G
 zpool create zfs01 -f 3600c0ff000144a914645150001000000
 ```
 ### Ceph
+```
 ceph-volume lvm create --data /dev/mapper/3600c0ff000144a919b45150001000000
+```
