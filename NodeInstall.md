@@ -2,6 +2,9 @@
 
 # Node Installation
 
+## IP Stack
+Verwendet DHCP Server für initiale IP
+
 ## Disable Enterprise Repositories
 
 
