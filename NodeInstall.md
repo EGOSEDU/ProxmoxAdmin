@@ -12,6 +12,18 @@ systemctl restart chronyd
 journalctl -since -1h -u chrony
 ```
 
+## Kernel Same Page Merging (KSM)
+Status und disable on host node
+```
+systemctl status ksmtuned
+systemctl disable –now ksmtuned
+```
+Disable per VM
+```
+qm set <vmid> --allow-ksm 0
+```
+
+
 ## IP Stack
 Verwendet DHCP Server für initiale IP
 
