@@ -2,6 +2,13 @@
 
 # Node Installation
 
+## Time Configuration
+> /etc/chrony/chrony.conf
+```
+systemctl restart chronyd
+journalctl –since -1h –u u chrony
+```
+
 ## IP Stack
 Verwendet DHCP Server für initiale IP
 
