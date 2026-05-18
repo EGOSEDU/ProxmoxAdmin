@@ -9,7 +9,7 @@ Config File
 *Service Restart and Logging*
 ```
 systemctl restart chronyd
-journalctl –since -1h –u u chrony
+journalctl -since -1h -u chrony
 ```
 
 ## IP Stack
