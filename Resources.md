@@ -10,3 +10,6 @@
 
 ### Spice Remote Control
 [Spice Client for Windows](http://www.spice-space.org/download.html)
+
+## Documentation
+[PVE Admin Handbook (PDF)](https://proxmox.com/en/downloads/proxmox-virtual-environment/documentation)
