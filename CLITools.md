@@ -1,10 +1,25 @@
 # Command Line Tools
 
-Performance Check
+## Performance Check
 ```
 pveperf
 ```
-List Block Devices
+## List Block Devices
 ```
 lsblk
+```
+
+## Disk Management
+
+Physical Volumes
+```
+pvs
+```
+Volume Groups
+```
+vgs
+```
+Logical Volumes
+```
+lvs
 ```
