@@ -3,7 +3,10 @@
 # Node Installation
 
 ## Time Configuration
+Config File
 > /etc/chrony/chrony.conf
+
+*Service Restart and Logging*
 ```
 systemctl restart chronyd
 journalctl –since -1h –u u chrony
