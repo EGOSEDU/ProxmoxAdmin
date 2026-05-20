@@ -6,8 +6,8 @@
 |---|---|
 |`pvecm status`|Cluster Status|
 |`pvcm nodes`|Show cluster nodes|
-|`pvesh set /nodes/nodename/status --offline 1|Set Cluster Node Offline|
-|`pvesh set /nodes/nodename/status --offline 0|Set Cluster Node Online|
+|`pvesh set /nodes/nodename/status --offline 1`|Set Cluster Node Offline|
+|`pvesh set /nodes/nodename/status --offline 0`|Set Cluster Node Online|
 ## Storage Management
 |Command|Funktion|
 |---|---|
