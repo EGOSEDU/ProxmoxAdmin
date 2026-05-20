@@ -18,11 +18,21 @@
 |`ip a`|Show IP Addresses|
 |`pve-firewall status`|Show firewall status|
 ## Virtual Machines (qm command)
+VM Operations
 |Command|Funktion|
 |---|---|
 |`qm list`|List VMs|
 |`qm start <vmid>`|Start VM|
 |`qm stop <vmid>`|Stop VM|
+|`qm shutdown <vmid>`|Shutdown VM|
+|`qm destroy <vmid>`|Delete VM|
+|`qm resize <vmid> <disk> <size>`|Stop VM|
+Backup and Restore
+|Command|Funktion|
+|---|---|
+|`vzdump &lt;vmid&gt;`|Backup VM or Container|
+|`qmrestore <backup> <vmid>`|Restore VM|
+|`pct restart <vmid>`|Restore Container|
 ## Linux OS
 |Command|Funktion|
 |---|---|
