@@ -31,7 +31,7 @@ VM Operations
 Backup and Restore
 |Command|Funktion|
 |---|---|
-|`vzdump &lt;vmid&gt;`|Backup VM or Container|
+|`vzdump <vmid>`|Backup VM or Container|
 |`qmrestore <backup> <vmid>`|Restore VM|
 |`pct restart <vmid>`|Restore Container|
 ## Linux OS
