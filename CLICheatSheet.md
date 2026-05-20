@@ -2,7 +2,9 @@
 # proxmox CLI Cheat Sheet
 
 ## Node Management
-`pvecm status` Cluster Status
+|Command|Funktion|
+|---|---|
+|`pvecm status`|Cluster Status|
 
 ## Storage Management
 
