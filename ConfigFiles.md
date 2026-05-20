@@ -21,9 +21,11 @@
 |/etc/pve/corosync.conf|CoroSync Configuration|
 
 ### VM & Container
-|---|---|
 |File|Funktion|
+|---|---|
 |/etc/pve/qemu-server/<vmid>.conf|Virtual Machine Configuration|
 |/etc/pve/lcx/<vmid>.conf|Container Configuration|
 
 ### Log Files
+|File|Funktion|
+|---|---|
