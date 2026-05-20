@@ -27,6 +27,7 @@ VM Operations
 |`qm shutdown <vmid>`|Shutdown VM|
 |`qm destroy <vmid>`|Delete VM|
 |`qm resize <vmid> <disk> <size>`|Stop VM|
+
 Backup and Restore
 |Command|Funktion|
 |---|---|
