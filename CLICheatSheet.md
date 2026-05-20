@@ -33,10 +33,11 @@ Backup and Restore
 |---|---|
 |`vzdump <vmid>`|Backup VM or Container|
 |`qmrestore <backup> <vmid>`|Restore VM|
-|`pct restart <vmid>`|Restore Container|
+|`pct restore <vmid>`|Restore Container|
 ## Linux OS
 |Command|Funktion|
 |---|---|
 |`apt update`|Update package lists|
 |`apt upgrade`|Update ohne neue Depencencies|
 |`apt dist-upgrade`|Full upgrade inkl. neue Dependencies|
+|`pveversion`|Aktuelle proxmox Version|
