@@ -23,8 +23,8 @@
 ### VM & Container
 |File|Funktion|
 |---|---|
-|/etc/pve/qemu-server/&lt;vmid&gt;>.conf|Virtual Machine Configuration|
-|/etc/pve/lcx/<vmid>.conf|Container Configuration|
+|/etc/pve/qemu-server/&lt;vmid&gt;.conf|Virtual Machine Configuration|
+|/etc/pve/lcx/&lt;vmid&gt;.conf|Container Configuration|
 
 ### Log Files
 |File|Funktion|
