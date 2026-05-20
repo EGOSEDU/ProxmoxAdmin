@@ -23,3 +23,9 @@
 |`qm list`|List VMs|
 |`qm start <vmid>`|Start VM|
 |`qm stop <vmid>`|Stop VM|
+## Linux OS
+|Command|Funktion|
+|---|---|
+|`apt update`|Update package lists|
+|`apt upgrade`|Update ohne neue Depencencies|
+|`apt dist-upgrade`|Full upgrade inkl. neue Dependencies|
