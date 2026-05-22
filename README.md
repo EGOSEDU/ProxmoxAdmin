@@ -1,3 +1,6 @@
+<style>
+  table { width:100%; }
+</style>
 # Proxmox Admin
 
 ## Topics
