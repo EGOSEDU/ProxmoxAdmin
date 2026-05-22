@@ -1,10 +1,8 @@
 # Proxmox Admin
 
 ## Topics
-
-[Node Installation](NodeInstall.md)
-
-[Storage](Storage.md)
+|---|---|
+|[Node Installation](NodeInstall.md)|[Storage](Storage.md)|
 
 [Clustering](Clustering.md)
 
