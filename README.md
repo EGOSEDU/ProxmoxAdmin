@@ -1,12 +1,9 @@
-<style>
-  table { width:100%; }
-</style>
 # Proxmox Admin
 
 ## Topics
 [Node Installation](NodeInstall.md)
 
-[Storage](Storage.md)|
+[Storage](Storage.md)
 
 [Clustering](Clustering.md)
 
