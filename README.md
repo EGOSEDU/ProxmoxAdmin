@@ -4,7 +4,7 @@
 # Proxmox Admin
 
 ## Topics
-|[Node Installation](NodeInstall.md)|
+[Node Installation](NodeInstall.md)
 
 [Storage](Storage.md)|
 
