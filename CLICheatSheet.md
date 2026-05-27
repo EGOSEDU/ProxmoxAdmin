@@ -38,6 +38,6 @@ Backup and Restore
 |Command|Funktion|
 |---|---|
 |`apt update`|Update package lists|
-|`apt upgrade`|Update ohne neue Depencencies|
+|`apt upgrade`|Update ohne neue Depencencies (not recommended)|
 |`apt dist-upgrade`|Full upgrade inkl. neue Dependencies|
 |`pveversion`|Aktuelle proxmox Version|
