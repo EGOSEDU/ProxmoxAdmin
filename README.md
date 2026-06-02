@@ -1,1 +1,1 @@
-[Zum Wiki](https://github.com/EGOSEDU/ProxmoxAdmin/wiki/README.md)
+[Zum Wiki](https://github.com/EGOSEDU/ProxmoxAdmin/wiki)
